@@ -14,7 +14,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/snake-and-ladder.git
+git clone https://github.com/manideep1387/snake-and-ladder.git
 Navigate to the project directory:
 bash
 Copy code
